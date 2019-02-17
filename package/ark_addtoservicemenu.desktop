@@ -1,3 +1,10 @@
+# Dolphin Services Easy Quick Install Suite 
+# https://github.com/Intika-Linux-Plasmoid
+# Contact: intika@librefox.org
+# Release: 2019 intika
+# License: GPL-3.0 
+# Version: 5.21
+
 [Desktop Entry]
 Type=Service
 ServiceTypes=KonqPopupMenu/Plugin
@@ -7,6 +14,7 @@ X-KDE-Require=Write
 X-KDE-Submenu=Compress Ark
 X-KDE-StartupNotify=false
 X-KDE-Priority=TopLevel
+Version=5.21
 
 [Desktop Action compressHereAsTar]
 Name=Here (as TAR.GZ)
